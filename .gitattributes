@@ -1,0 +1,4 @@
+DP-sr.jar filter=lfs diff=lfs merge=lfs -text
+**/reasoner/** filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+
