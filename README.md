@@ -63,6 +63,8 @@ The pipeline is composed of the following main components:
 
 - `uv`
 - Linux x86-64 and Java 11 or newer on `PATH` for DP-SR
+- [Git LFS](https://git-lfs.github.com) — required to download large binary files
+
 
 ## Installation
 
