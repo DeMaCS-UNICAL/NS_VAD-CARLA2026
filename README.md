@@ -2,7 +2,7 @@
 
 # A Neuro-Symbolic Agent for Video Anomaly Detection
 
-**Alessia Donata Camarda · Giovambattista Ianni · Angelo Laface · Simona Perri**
+**Alessia Donata Camarda · Giovambattista Ianni · Angelo Laface**
 
 Submitted to
 <strong>C.A.R.L.A: Workshop on Cognitive Architectures for Robotics: LLMs and Logic in Action</strong><br>
